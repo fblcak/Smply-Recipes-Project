@@ -255,7 +255,7 @@ ul {
 }
 
 /*
-=============== 
+===============
 Navbar
 ===============
 */
@@ -355,10 +355,9 @@ Navbar
   }
  .contact-link {
     margin-left: auto;
-    margin-right: 0;
   }
 }
- 
+
 
 .page {
   width:  90vw;
@@ -573,7 +572,7 @@ Navbar
 .tag h5,
 .tag p {
   margin-bottom: 0;
-} 
+}
 .tag h5 {
   font-weight: 600;
 }
@@ -629,7 +628,7 @@ Navbar
   border-radius: var(--borderRadius);
 }
 .recipe-tags a {
-  
+
 }
 @media screen and (min-width:992px) {
   .recipe-hero {
